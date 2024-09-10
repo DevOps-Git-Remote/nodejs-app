@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://13.40.35.125:9980/mithuntechnologies/repository/nodejs-mssrepo/"
+    "registry": "http://192.168.1.103:8081/repository/NodeJSApplications/"
   },
   
   "scripts": {
@@ -27,13 +27,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://13.212.29.25:9980/mithuntechnologies/repository/nodejsproject/"
+    "url": "http://192.168.1.103:8081/repository/NodeJSApplications/"
   },
   "keywords": [
     "node",
-    "Mithun Technologies",
+    "Arunsai Technologies",
     "express"
   ],
-  "author": "Mithun Reddy Lacchannagari",
-  "license": "MIT"
+  "author": "Arunsai Pasupuleti",
+  "license": "DXC"
 }

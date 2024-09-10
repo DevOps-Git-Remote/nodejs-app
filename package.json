@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://192.168.1.103:8081/repository/NodeJSApplications/"
+    "url": "https://github.com/DevOps-Git-Remote/nodejs-app.git"
   },
   "keywords": [
     "node",
@@ -35,5 +35,5 @@
     "express"
   ],
   "author": "Arunsai Pasupuleti",
-  "license": "DXC"
+  "license": "MIT"
 }
